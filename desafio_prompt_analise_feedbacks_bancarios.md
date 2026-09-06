@@ -2,9 +2,9 @@
 
 <p align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/desafios-criativos-dio?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/desafios-criativos-dio?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/SEU-USUARIO/desafios-criativos-dio?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EDY075/desafios-criativos-dio?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/EDY075/desafios-criativos-dio?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/EDY075/desafios-criativos-dio?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge\&logo=markdown)
 ![DIO](https://img.shields.io/badge/DIO-Bootcamp-blue?style=for-the-badge)
 
