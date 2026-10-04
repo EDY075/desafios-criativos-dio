@@ -6,6 +6,10 @@ Coleção de exercícios práticos sobre engenharia de prompt, análise respons�
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-study-6366F1?style=flat-square) ![DIO](https://img.shields.io/badge/DIO-Bootcamp-2563EB?style=flat-square) ![Privacy](https://img.shields.io/badge/Privacy-no_personal_data-2EA44F?style=flat-square)
 
+## Apresentação em vídeo
+
+https://github.com/user-attachments/assets/4224809f-566a-46e9-8b73-4533871e0d81
+
 ## Projeto disponível
 
 ### Insights de feedback bancário
